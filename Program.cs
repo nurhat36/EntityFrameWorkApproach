@@ -10,6 +10,7 @@ namespace EntityFrameWorkApproach
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
